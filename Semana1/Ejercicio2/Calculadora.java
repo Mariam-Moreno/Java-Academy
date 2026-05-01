@@ -21,6 +21,9 @@ public class Calculadora {
     public static int sumar(int[] numeros) {
         int total = 0;
         // TODO: recorrer el array y acumular
+        for (int num : numeros) {
+            total += num;
+        }
         return total;
     }
 
