@@ -1,6 +1,6 @@
 # Semana 2: Entrega Semana2 - Módulo 3
 
-Este directorio contiene los ejercicios y preguntas de práctica correspondientes a la primera semana de la **Java Academy Mérida**.
+Este directorio contiene los ejercicios y preguntas de práctica correspondientes a la segunda semana de la **Java Academy Mérida**.
 
 ### 📋 Temas Cubiertos
 
