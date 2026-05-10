@@ -1,13 +1,14 @@
-# Semana 1: Entrega Semanal - Módulos 1 y 2 
+# Semana 3: Entrega Semanal - Módulo 4
 
-Este directorio contiene los ejercicios y preguntas de práctica correspondientes a la primera semana de la **Java Academy Mérida**.
+Este directorio contiene los ejercicios y preguntas de práctica correspondientes a la tercera semana de la **Java Academy Mérida**.
 
 ### 📋 Temas Cubiertos
 
-* Java class structure, packages, imports
-* Tipos primitivos vs referencia, operadores, control de flujo
-* Strings, access modifiers
-* StringBuilder, arrays, ArrayList, wrapper classes
-* Constructores, encapsulamiento, herencia
-* Clases abstractas, interfaces, polimorfismo
-* equals(), hashCode(), toString(), instanceof
+* Colecciones avanzadas: List, Set, Map, Queue
+* Generics (clases, interfaces, métodos)
+* Comparator vs Comparable
+* Lambdas y functional interfaces
+* Optional
+* Streams: creación, operaciones terminales e intermedias
+* Primitive streams, pipelines avanzados
+* Threads, concurrencia, ExecutorService
